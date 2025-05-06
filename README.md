@@ -3,6 +3,10 @@
 **EduSphere** is a powerful Java-based desktop application designed to streamline the academic workflows of educational institutions. Built with **Java Swing**, **JDBC**, and backed by a **MySQL** database, EduSphere supports multiple user roles (Admin, Teacher, Student) and provides essential features for managing users, courses, materials, and academic performance.
 
 ---
+# 🛢️ DB Schema
+
+[![DB Schema](assets/preview.png)](https://www.playbook.com/e/spydy/88KGVaUXRQ9P14ivWaW5WgvY)
+
 
 ## 🚀 Technologies Used
 
