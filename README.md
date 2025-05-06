@@ -7,6 +7,7 @@
 
 ![](https://github.com/Amritanshu-404/Edusphere/blob/master/src/resources/images/Screenshot%202025-05-06%20192528.png?raw=true)
 
+---
 
 ## 🚀 Technologies Used
 
