@@ -5,7 +5,7 @@
 ---
 # 🛢️ DB Schema
 
-[![DB Schema](assets/preview.png)](https://www.playbook.com/e/spydy/88KGVaUXRQ9P14ivWaW5WgvY)
+▶️ [View EduSphere Preview Carousel on Playbook](https://www.playbook.com/e/spydy/88KGVaUXRQ9P14ivWaW5WgvY)
 
 
 ## 🚀 Technologies Used
